@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(75, 189, 151);
+}
+
+section {
+  padding-top: 6rem;
+}
+
+nav {
+  font-family: Tahoma, sans-serif;
+  font-weight: bold;
+}
